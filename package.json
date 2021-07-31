@@ -9,8 +9,7 @@
     "build:html": "node scripts/build-html.js",
     "build:scss": "node scripts/build-scss.js",
     "clean": "node scripts/clean.js",
-    "start": "npm run build && node scripts/start.js",
-    "vai": "npm run build:html && node scripts/start.js"
+    "start": "npm run build && node scripts/start.js"
   },
   "author": "Vinicius",
   "devDependencies": {
