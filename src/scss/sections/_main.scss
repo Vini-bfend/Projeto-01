@@ -1,40 +1,40 @@
 main {
     width: 80%;
     margin: auto;
-}
 
-.content-section {
-    background-color: white;
-    padding: 10px;
-    margin-top: 20px;
-}
+    .content-section {
+        background-color: white;
+        padding: 10px;
+        margin-top: 20px;
 
-.content-section h2 {
-    border-bottom: 2px solid #555;
-    background-color: #ccc;
-    padding: 5px;
-}
+        h2 {
+            border-bottom: 2px solid #555;
+            background-color: #ccc;
+            padding: 5px;
+        }
 
-.cardzera {
-    box-sizing: border-box;
-    display: flex;
-    align-items: center;
-    justify-content: space-around;
-}
+        .cardzera {
+            box-sizing: border-box;
+            display: flex;
+            align-items: center;
+            justify-content: space-around;
 
-.cardzera .card {
-    padding: 5px;
-    width: 31%;
-}
+            .card {
+                padding: 5px;
+                width: 31%;
 
-.cardzera .card img {
-    width: 100%;
-    margin: 0;
-}
+                img {
+                    width: 100%;
+                    margin: 0;
+                }
 
-.cardzera .card p {
-    background-color: rgb(57, 57, 57);
-    color: white;
-    text-transform: uppercase;
-    padding: 5px;
+                p {
+                    background-color: rgb(57, 57, 57);
+                    color: white;
+                    text-transform: uppercase;
+                    padding: 5px;
+                }
+            }
+        }
+    }
 }
