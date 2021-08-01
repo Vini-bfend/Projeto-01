@@ -7,7 +7,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/rhoit/mode-icons/dump/icons/sass.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
-### Esse foi minha primeira land-page, e agora deixei mais "atualizado"
+### Essa foi a minha primeira land-page, e agora a deixei mais "atualizada"
 ##### This was my first land-page, and now its more "updated"
 
 ------------------------------------------------------------------------------------------------------------------------------------------
